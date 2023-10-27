@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com",
   "dependencies": {
-    "axios": "^0.21.3",
+    "axios": "^1.6.0",
     "bluebird": "^3.7.2",
     "body-parser": "^1.19.2",
     "dotenv": "^8.1.0",
